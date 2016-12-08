@@ -1,0 +1,25 @@
+.rt-verified-info{
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  padding: 0px 6px 11px;
+}
+
+.rt-verified-info .rt-piece-info{
+  padding: 0px 10px;
+  margin: 4px 0px;
+}
+
+.rt-piece-info i {
+  font-size: 20px;
+}
+
+.rt-user-profile-send-message{
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  padding: 0px 3%;
+}
+
+.tr-font-true-color{
+  color: #66bb6a;
+}
+.rt-font-false-color{
+  color: #e64a19;
+}
